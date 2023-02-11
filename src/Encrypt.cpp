@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include <string> // Include string library for string manipulation functions to be used later
-#include "Encrypt.h"
+#include "../headers/Encrypt.h"
 
 Encrypt::Encrypt( int userNum )
     // Empty constructor initialization for array

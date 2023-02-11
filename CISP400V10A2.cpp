@@ -1,6 +1,6 @@
 // CISP400V10A2.cpp
 // Test program for class Encrypt.
-#include "Encrypt.cpp" // include declarations of class Encrypt
+#include "./src/Encrypt.cpp" // include declarations of class Encrypt
 #include <iostream>
 #include <iomanip>
 using namespace std;
